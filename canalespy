@@ -20,3 +20,220 @@ https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w1801072033.m3u8
 https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
 #EXTINF: -1,directivy
 https://dtvott-abc.akamaized.net/dash_live_1058/dash/1058_DIRECTV_SPORTS_CHI-video=953600.dash
+#EXTM3U 
+#EXTINF: -1, Fox Sports 2 latino
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/158
+#EXTINF: -1, Familia FOX
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/103
+#EXTINF: -1, Discovery h & h
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/111
+#EXTINF: -1, DirecTV Sports 2
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/6
+#EXTINF: -1, ESPN 2 latino
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/146
+#EXTINF: -1, Distrito comedia
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/23
+#EXTINF: -1, El Financiero Bloomberg
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/109
+#EXTINF: -1, ESPN 3 latino
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/8
+#EXTINF: -1, Foro TV
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/21
+#EXTINF: -1, Azteca 7
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/47
+#EXTINF: -1, Bein La Liga
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/159
+#EXTINF: -1, Caracol
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/151
+#EXTINF: -1, Cine latino
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/81
+#EXTINF: -1, ciencia del descubrimiento
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/123
+#EXTINF: -1, Disney XD
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/131
+#EXTINF: -1, El gourmet
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/82
+#EXTINF: -1, FOX
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/147
+#EXTINF: -1, HBO Signature
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/80
+#EXTINF: -1, Historia
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/139
+#EXTINF: -1, Nat geo wild
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/115
+#EXTINF: -1, CLD: ESPN 1 LA
+http://ligatv.net:25461/clarodep/01022019/294
+#EXTINF: -1, CLD: ESPN 2 LA
+http://192.99.19.55:25461/live/sRe/4VIrhLpbScQ/146.m3u8
+#EXTINF: -1, CLD: ESPN 3 LA
+http://ligatv.net:25461/clarodep/01022019/292
+#EXTINF: -1, CLD: ESPN + LA
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14273.m3u8
+#EXTINF: -1, CLD: FOX SPORTS 1 LA
+http://ligatv.net:25461/clarodep/01022019/291
+#EXTINF: -1, CLD: FOX SPORTS 2 LA
+http://ligatv.net:25461/clarodep/01022019/290
+#EXTINF: -1, CLD: FOX SPORTS 3 LA
+http://ligatv.net:25461/clarodep/01022019/289
+#EXTINF: -1, CLD: CLARO SPORTS
+http://ligatv.net:25461/clarodep/01022019/300
+#EXTINF: -1, CLD: CLARO 2
+http://ligatv.net:25461/clarodep/01022019/299
+#EXTINF: -1, CLD: GOLF CH
+http://ligatv.net:25461/clarodep/01022019/288
+#EXTINF: -1, CLD: GANAR DEPORTES
+http://ligatv.net:25461/clarodep/01022019/287
+#EXTINF: -1, ESD: BEIN SPORTS Ñ
+http://192.99.19.55:25461/live/suAoxububis/5fZf3S9yBL/55.m3u8
+#EXTINF: -1, ESD: BEIN LIGA
+http://192.99.19.55:25461/live/sRekakas/4VIrhLpbScQ/159.m3u8
+#EXTINF: -1, ESD: LALIGATV
+http://192.99.19.55:25461/live/suAoxububis/5fZf3S9yBL/68.m3u8
+#EXTINF: -1, ESD: M Liga de Campeones HD
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57998.m3u8
+#EXTINF: -1, ESD: GOL ES
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57981.m3u8
+#EXTINF: -1, ESD: REAL MADRID
+http://ligatv.net:25461/clarodep/01022019/76
+#EXTINF: -1, ESD: SEVILLA TV
+http://ligatv.net:25461/clarodep/01022019/77
+#EXTINF: -1, ESD: BARCA TV
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58000.m3u8
+#EXTINF: -1, ESD: M DEPORTES PE
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14209.m3u8
+#EXTINF: -1, ESD: M DEPORTES 2
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57969.m3u8
+#EXTINF: -1, ESD: M FORMULA 1
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57967.m3u8
+#EXTINF: -1, ESD: TDP 2K
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57947.m3u8
+#EXTINF: -1, LAD: TyC SPORTS
+http://192.99.19.55:25461/live/spSsXds/3lCrkbJsv/43.m3u8
+#EXTINF: -1, LAD: CDF PREMIUM
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/274.m3u8
+#EXTINF: -1, LAD: ESPN Deportes
+http://192.99.19.55:25461/live/ssskoko/3lCrkbJsv/2.m3u8
+#EXTINF: -1, LAD: FOX Deportes HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11113.m3u8
+#EXTINF: -1, LAD: GALAVISION HD
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/41236.m3u8
+#EXTINF: -1, LAD: UNIVERSO NBC
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11093.m3u8
+#EXTINF: -1, LAD: TELEMUNDO LA HD
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/61835.m3u8
+#EXTINF: -1, LAD: UNIMAS HD
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58528.m3u8
+#EXTINF: -1, LAD: UNIVISION HD
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58527.m3u8
+#EXTINF: -1, LAD: PX Sports 2K
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/166753.m3u8
+#EXTINF: -1, LAD: DIRECTV
+http://192.99.19.55:25461/live/snWWcablegratis/2s3avt9/153.m3u8
+#EXTINF: -1, LAD: DIRECTV +
+http://192.99.19.55:25461/live/suAoxukola/5fZf3S9yBL/152.m3u8
+#EXTINF: -1, LAD: DIRECTV 2
+http://192.99.19.55:25461/live/sRekakasio/4VIrhLpbScQ/6.m3u8
+#EXTINF: -1, LAD: FOX SPORTS Premium
+http://192.99.19.55:25461/live/spSsXds/3lCrkbJsv/39.m3u8
+#EXTINF: -1, LAD: GOL PERU
+http://192.99.19.55:25461/live/s9qNeWDeoz/7gJus5jejeje/149.m3u8
+#EXTINF: -1, LAD: GOL TV
+http://192.99.19.55:25461/live/s9qNeWDeoz/7gJus5jejeje/148.m3u8
+#EXTINF: -1, LAD: TNT Sports
+http://192.99.19.55:25461/live/snWWcab/2s3avt9/156.m3u8
+#EXTINF: -1, Universo NBC
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/60
+#EXTINF: -1, canal universal
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/33
+#EXTINF: -1, TyC Sports
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/43
+#EXTINF: -1, canal Paramount
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/120
+#EXTINF: -1, HBO 2
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/40
+#EXTINF: -1, HBO Plus
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/34
+#EXTINF: -1, ESPN 1 latino
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/104
+#EXTINF: -1, ESPN Deportes
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/2
+#EXTINF: -1, FOX Action
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/144
+#EXTINF: -1, FOX Cinema
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/143
+#EXTINF: -1, Fox Sports 1 Latino
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/37
+#EXTINF: -1, Fox Sports Premium
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/39
+#EXTINF: -1, milenio
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/70
+#EXTINF: -1, MAX Prime
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/113
+#EXTINF: -1, Multipremier
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/127
+#EXTINF: -1, Multimedios
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/78
+#EXTINF: -1, Serie TNT
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/41
+#EXTINF: -1, Canal 5 MX
+http://192.99.19.55:25461/sssjiolimoncon89/3lCrkbJsv/31
+#EXTINF: -1, Cinecanal
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/117
+#EXTINF: -1, ESPN 1 LA
+http://ligatv.net:25461/clarodep/01022019/294
+#EXTINF: -1, ESPN 2 LA
+http://192.99.19.55:25461/live/sRecablegratisdottv/4VIrhLpbSc/146.m3u8
+#EXTINF: -1, ESPN 3 LA
+http://192.99.19.55:25461/live/sRecablegratisdottv/4VIrhLpbSc/8.m3u8
+#EXTINF: -1, FOX SPORTS 1 LA
+http://ligatv.net:25461/clarodep/01022019/291
+#EXTINF: -1, FOX SPORTS 2 LA
+http://ligatv.net:25461/clarodep/01022019/290
+#EXTINF: -1, FOX SPORTS 3 LA
+http://ligatv.net:25461/clarodep/01022019/289
+#EXTINF: -1, CLARO SPORTS
+http://ligatv.net:25461/clarodep/01022019/300
+#EXTINF: -1, CLARO 2
+http://ligatv.net:25461/clarodep/01022019/299
+ 
+#EXTINF: -1, GANAR DEPORTES
+http://ligatv.net:25461/clarodep/01022019/287
+#EXTINF: -1, BEIN SPORTS Ñ
+http://192.99.19.55:25461/live/suArrebacasa134654/5fZf3S9yBL7/55.m3u8
+#EXTINF: -1, ESPN 1 LA
+http://ligatv.net:25461/clarodep/01022019/294
+#EXTINF: -1, ESPN 2 LA
+http://192.99.19.55:25461/live/sRecablegratisdottv/4VIrhLpbSc/146.m3u8
+#EXTINF: -1, ESPN 3 LA
+http://192.99.19.55:25461/live/sRecablegratisdottv/4VIrhLpbSc/8.m3u8
+#EXTINF: -1, ESPN + LA
+http://ligatv.net:25461/clarodep/01022019/295
+#EXTINF: -1, FOX SPORTS 1 LA
+http://ligatv.net:25461/clarodep/01022019/291
+#EXTINF: -1, FOX SPORTS 2 LA
+http://ligatv.net:25461/clarodep/01022019/290
+#EXTINF: -1, FOX SPORTS 3 LA
+http://ligatv.net:25461/clarodep/01022019/289
+#EXTINF: -1, CLARO SPORTS
+http://ligatv.net:25461/clarodep/01022019/300
+#EXTINF: -1, CLARO 2
+http://ligatv.net:25461/clarodep/01022019/299
+ 
+#EXTINF: -1, GANAR DEPORTES
+http://ligatv.net:25461/clarodep/01022019/287
+#EXTINF: -1, BEIN SPORTS Ñ
+http://192.99.19.55:25461/live/suArrebacasa134654/5fZf3S9yBL7/55.m3u8
+#EXTINF: -1, BEIN LIGA
+http://192.99.19.55:25461/live/sRecablegratisdottv/4VIrhLpbSc/159.m3u8
+#EXTINF: -1, La LIGATV
+http://192.99.19.55:25461/live/suArrebacasa134654/5fZf3S9yBL7/68.m3u8
+ 
+#EXTINF: -1, ESPN Deportes
+http://192.99.19.55:25461/live/sssjiolimoncon89/3lCrkbJsv/2.m3u8
+ 
+#EXTINF: -1, DIRECTV
+http://192.99.19.55:25461/live/skokolopolo/2s3avt9koa45/153.m3u8
+#EXTINF: -1, DIRECTV +
+http://192.99.19.55:25461/live/suArrebacasa134654/5fZf3S9yBL7/152.m3u8
+#EXTINF: -1, DIRECTV 2
+http://192.99.19.55:25461/live/sRecablegratisdottv/
