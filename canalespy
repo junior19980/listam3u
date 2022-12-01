@@ -39,11 +39,53 @@ https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CvsEc8lvw8jFCOUeNRWY7i-e_Yo
 #EXTINF: -1,Discovery
 https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/CvIEhkyyBbmG2UcuvsuFvVVhDVCPRcSVwe66f5wJlVf8BlqP621SYuLsqUmFikDPP3RMTJNT97lHeCZmqSWDItu7fvlw6RK-Ccvx9TR2jX2cvaBauRWbv81iqTipR-gyKvr254UOqi0bgq-3y83PUCEg6acYk9A9_ugiY4RswTS7XEbC_TJ1fISuprIWcKnBJ_A9LjrPzh4QZcmWK4AR0gZUN-mdJzYy1z9063cw4vU4xI1hV4LC3sttL-3m4lv423CY-23SjsJSt8QQP9eQLBsu5-XF8e4aAavn83TArV2EaQBCKLvCLXdialothWDlYezjcW3quYejdaDy0Cc8RiMP_x4_KmgH6d_-0X6ff5nI63OhfbLoNC9y9yOUUysdoAqTOgywathP4zlJHCJIBghwa0mGVp6se6ebNpBHmKmp2V0Ybh7qm84haD7ClaeUNGP7PL07uxNQgAXaO_Juk6VtxVi7rVGI9Nc3SeGRpY_ZUNh9fX2xZJFb7delleXsnRpYFvU8-VJ97XWWkfY6XmzRlnykqTNNyrJcrBdpOdebwuODBqYzgemhX7K0dVD9N2M7I7KQPt18UtlBz5ufhWz2La_W2ETbkrUFlMCFL_NZp7Ni97Gk5CydCfX8SJSJixt9fg9vWOtyP0oX24mHSUdpmXGLApQOjwl6Pugv8DYRPz6SC5_OiDudSe4gKA3reOQoXVAyFBKw7CRh1BDc6UxUUFCiAk_1wLZtbYGawmady2mBrR0gEKlDxBIunFkCei0PmyxXfza-6cDInQTgZrNUsSg2LD6QEsMArvWDakpBGiztwYLx2MF4EMz5veLcbqjNH10aDN2sT8JK_t8HldsjwCABKglldS13ZXN0LTIwpAU.m3u8
 #EXTINF: -1,Tigosport
-https://edge1.zorrohd4.nl/live/ST4bd318a3f6981b2.m3u8
-
+https://live.telelatinohd.com:8080/MTcwLjgzLjI0My4xMzI=/241_.m3u8?token=6ybANc8aKo5Ai4dOsLeCyg&expires=1669943997
 #EXTINF: -1,Directv
-https://edge1.zorrohd4.nl/live/STb68cdcad6890158.m3u8
+https://dtvott-abc.akamaized.net/dash_live_1061/dash/1061_DIRECTV_SPORTS_PER-video=1515200-100195779530296.dash
 #EXTINF: -1,claro
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-video=6499968.m3u8
-#EXTINF: -1,sn
-https://edge-live14-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4-mp4a_144800_spa=20000-init.mp4
+#EXTINF: -1,tycsport
+https://live.telelatinohd.com:8080/MTcwLjgzLjI0My4xMzI=/11_.m3u8?token=23n9GxyrFo22BOByWcYmig&expires=1669944172
+EXTM3U
+#EXTINF:-1,La 1 HD
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,La 2 HD
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Antena 3 HD
+https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
+#EXTINF:-1,Cuatro HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1,Telecinco HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1,La Sexta HD
+https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
+#EXTINF:-1,La 7 Tele Valencia
+https://live-edge-lon-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
+#EXTINF:-1,La 8 Mediterraneo
+https://live-edge-sxb-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8
+#EXTINF:-1,A Punt HD
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8?m=1556718872
+#EXTINF:-1,Neox HD
+https://livestartover.atresmedia.com/geoneox/bitrate_4.m3u8
+#EXTINF:-1,Nova HD
+https://livestartover.atresmedia.com/geonova/bitrate_4.m3u8
+#EXTINF:-1,A Tres Series HD
+https://livestartover.atresmedia.com/geoa3series/bitrate_4.m3u8
+#EXTINF:-1,Mega HD
+https://livestartover.atresmedia.com/geomega/bitrate_4.m3u8
+#EXTINF:-1,FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1,Divinity HD
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1,Be Mad HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,Energy HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1,Boing HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-Paramount Network
+https://paramount-live.flumotion.com/live/chunks.m3u8
+#EXTINF:-1 Tdp HD
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 GOL TV HD
+https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hmed.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aG1lZC5tM3U4IiwiQ29uZGl0aW9uIjp7IklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIxNzguMjM3LjIzMS4xNjcvMzIifSwiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1Nzk5ODk5MDF9fX1dfQ__&Signature=SEink5~ZUrSIi6lGJ3YeZbdEfRE083xcwafmbxR2~h2EQXpStKvO6WMC0kv4XQ56cTJfrgFtUeOOxVvrmUfuDkEoFkQQNZKLdKnVyPuGL2HPPGi6MkA~ahtX-KAYrMgTfXAhFp2xiLNo0WzRLwCWsuGYNLRyqUEuiE6zJd2fMRBldZJvW17vOOs2BDlYRs5FRYvcn7cxrUErSKawIi-YQAZK8aGk0x3EpaZg80lcYd7jYboqxf-iV4YFpmeu7Wv3gWz9Bv8xOE68LMSsCbhG~L7q30xtmLtWVl-HIg92kLxNcq8aPNO6W76HZxCk5bVz1C1B4l2ED4qKj1ioLohMCw__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
