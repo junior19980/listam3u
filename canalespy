@@ -18,4 +18,5 @@ https://streaming.unicanal.com.py/live/unicanal_mid.m3u8
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w1801072033.m3u8
 #EXTINF: -1,CN9
 https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
-
+#EXTINF: -1,directivy
+https://dtvott-abc.akamaized.net/dash_live_1058/dash/1058_DIRECTV_SPORTS_CHI-video=953600.dash
