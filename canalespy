@@ -41,9 +41,8 @@ https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/CvIEhkyyBbmG2UcuvsuFvVVhDVC
 #EXTINF: -1,Tigosport
 https://live.telelatinohd.com:8080/MTcwLjgzLjI0My4xMzI=/241_.m3u8?token=6ybANc8aKo5Ai4dOsLeCyg&expires=1669943997
 #EXTINF: -1,Directv
-https://dtvott-abc.akamaized.net/dash_live_1061/dash/1061_DIRECTV_SPORTS_PER-video=1515200-100195779530296.dash
+https://t4.switchcast2.com:999/hls/directvlive.m3u8?md5=MMWD8XQYuDKo57_pXXQCtA&expires=1669939443
 #EXTINF: -1,claro
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-video=6499968.m3u8
 #EXTINF: -1,tycsport
 https://live.telelatinohd.com:8080/MTcwLjgzLjI0My4xMzI=/11_.m3u8?token=23n9GxyrFo22BOByWcYmig&expires=1669944172
-
