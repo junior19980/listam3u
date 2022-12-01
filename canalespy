@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: -1,Telefuturo
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w449736548.m3u8
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w2084217060.m3u8?k=3811bc8a08e957b05381cb0a9de0bd510acc9fbb3f473b96dd4c674c770f2b19&exp=1669921857
 #EXTINF: -1,Trece
 https://streaming.trece.com.py/live/trece_src.m3u8
 #EXTINF: -1,Gen
@@ -16,6 +16,6 @@ https://rds3tf.desdeparaguay.net/latele/latele_py_baja/chunklist_w69497951.m3u8?
 https://streaming.unicanal.com.py/live/unicanal_mid.m3u8
 #EXTINF: -1,Mytv
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w1801072033.m3u8
-#EXTINF: -1,Espen
-https://edge-mix02-cen.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD-mp4a_145200_eng=20002-scale=48000-init.mp4
+#EXTINF: -1,CN9
+https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
 
