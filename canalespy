@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: -1,Telefuturo
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1125937542.m3u8?k=82ac5cbce78379848e7ea8119897822276359e218eb82d194c84895a93bdc99e&exp=1669926477
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1157622709.m3u8?k=3781eb96b17e3fc86e9c9f614f99f47a20486f241432ea8165dd28a05a353481&exp=1669935013
 #EXTINF: -1,Trece
 https://streaming.trece.com.py/live/trece_src.m3u8
 #EXTINF: -1,Gen
@@ -46,3 +46,5 @@ https://t4.switchcast2.com:999/hls/directvlive.m3u8?md5=MMWD8XQYuDKo57_pXXQCtA&e
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-video=6499968.m3u8
 #EXTINF: -1,tycsport
 https://live.telelatinohd.com:8080/MTcwLjgzLjI0My4xMzI=/11_.m3u8?token=23n9GxyrFo22BOByWcYmig&expires=1669944172
+#EXTINF: -1,koaTv
+https://panel.dattalive.com/8028/8028/chunklist_w446793476.m3u8
