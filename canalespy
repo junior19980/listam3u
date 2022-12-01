@@ -46,46 +46,4 @@ https://dtvott-abc.akamaized.net/dash_live_1061/dash/1061_DIRECTV_SPORTS_PER-vid
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-video=6499968.m3u8
 #EXTINF: -1,tycsport
 https://live.telelatinohd.com:8080/MTcwLjgzLjI0My4xMzI=/11_.m3u8?token=23n9GxyrFo22BOByWcYmig&expires=1669944172
-EXTM3U
-#EXTINF:-1,La 1 HD
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,La 2 HD
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Antena 3 HD
-https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
-#EXTINF:-1,Cuatro HD
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1,Telecinco HD
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-#EXTINF:-1,La Sexta HD
-https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
-#EXTINF:-1,La 7 Tele Valencia
-https://live-edge-lon-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
-#EXTINF:-1,La 8 Mediterraneo
-https://live-edge-sxb-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8
-#EXTINF:-1,A Punt HD
-https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8?m=1556718872
-#EXTINF:-1,Neox HD
-https://livestartover.atresmedia.com/geoneox/bitrate_4.m3u8
-#EXTINF:-1,Nova HD
-https://livestartover.atresmedia.com/geonova/bitrate_4.m3u8
-#EXTINF:-1,A Tres Series HD
-https://livestartover.atresmedia.com/geoa3series/bitrate_4.m3u8
-#EXTINF:-1,Mega HD
-https://livestartover.atresmedia.com/geomega/bitrate_4.m3u8
-#EXTINF:-1,FDF HD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1,Divinity HD
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1,Be Mad HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-#EXTINF:-1,Energy HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:-1,Boing HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-Paramount Network
-https://paramount-live.flumotion.com/live/chunks.m3u8
-#EXTINF:-1 Tdp HD
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 GOL TV HD
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hmed.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aG1lZC5tM3U4IiwiQ29uZGl0aW9uIjp7IklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIxNzguMjM3LjIzMS4xNjcvMzIifSwiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1Nzk5ODk5MDF9fX1dfQ__&Signature=SEink5~ZUrSIi6lGJ3YeZbdEfRE083xcwafmbxR2~h2EQXpStKvO6WMC0kv4XQ56cTJfrgFtUeOOxVvrmUfuDkEoFkQQNZKLdKnVyPuGL2HPPGi6MkA~ahtX-KAYrMgTfXAhFp2xiLNo0WzRLwCWsuGYNLRyqUEuiE6zJd2fMRBldZJvW17vOOs2BDlYRs5FRYvcn7cxrUErSKawIi-YQAZK8aGk0x3EpaZg80lcYd7jYboqxf-iV4YFpmeu7Wv3gWz9Bv8xOE68LMSsCbhG~L7q30xtmLtWVl-HIg92kLxNcq8aPNO6W76HZxCk5bVz1C1B4l2ED4qKj1ioLohMCw__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
+
