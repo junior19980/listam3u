@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: -1,Telefuturo
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w2084217060.m3u8?k=3811bc8a08e957b05381cb0a9de0bd510acc9fbb3f473b96dd4c674c770f2b19&exp=1669921857
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1125937542.m3u8?k=82ac5cbce78379848e7ea8119897822276359e218eb82d194c84895a93bdc99e&exp=1669926477
 #EXTINF: -1,Trece
 https://streaming.trece.com.py/live/trece_src.m3u8
 #EXTINF: -1,Gen
